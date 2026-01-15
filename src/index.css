@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-sans antialiased text-gray-900 bg-white;
+  }
+}
+
+@layer components {
+  .section-title {
+    @apply text-[10px] sm:text-[14px] font-bold text-[#c9b8d7] uppercase tracking-[0.1em] mb-6 block;
+  }
+}
