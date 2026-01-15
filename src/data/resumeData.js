@@ -1,7 +1,7 @@
 export const resumeData = {
   personalInfo: {
     name: "Chamudi R. Wijesekera",
-    title: "UI/UX Designer",
+    title: "UI/UX Engineer",
     location: "Hokandara, Sri Lanka",
     phone: "+94 76 877 9190",
     email: "chamudirw@gmail.com",
@@ -9,7 +9,7 @@ export const resumeData = {
     website: "https://chamudirw.framer.website/",
     cv: "https://drive.google.com/file/d/1iGAUWyaa5GYjAZ3x2v0-7oCL1YHZPERG/view",
     intro:
-      "UI/UX Designer with a software engineering background, looking for opportunities to apply skills, grow, and build deeper practical experience.",
+      "UI/UX Engineer with a software engineering background, looking for opportunities to apply skills, grow, and build deeper practical experience.",
   },
   experience: [
     {
